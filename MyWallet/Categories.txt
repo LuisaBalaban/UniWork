@@ -1,0 +1,9 @@
+﻿Food
+Household Items
+Medicine
+Clothing
+Electronics
+Gas
+Rent
+Leisure
+s
